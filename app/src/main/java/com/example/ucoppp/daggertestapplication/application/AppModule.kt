@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import dagger.Module
 import dagger.Provides
+import dagger.android.ContributesAndroidInjector
 import javax.inject.Singleton
 
 @Module
